@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526879205074",
+    "firebase_url": "https://uas-akb-392ee-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-akb-392ee",
+    "storage_bucket": "uas-akb-392ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526879205074:android:3ef356ceb36d92a305ef0b",
+        "android_client_info": {
+          "package_name": "com.ahmett.uas_akb_if4_10120129"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526879205074-ojh392cb7lqtt0q5jn7p27vmcbg1ug26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmett.uas_akb_if4_10120129",
+            "certificate_hash": "4997aab4c92484231bb9f0bee626aeddcf8a7876"
+          }
+        },
+        {
+          "client_id": "526879205074-7giv0fo60p83p6vjdristri2lv55gj0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGdH983EHTKxcJ9mLUZneyXD-T8ePudBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526879205074-7giv0fo60p83p6vjdristri2lv55gj0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
